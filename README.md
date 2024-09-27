@@ -1,5 +1,5 @@
 # Preparing_for_Interview
-This repository is stored all the question and solution I learned within 7 days for Data Engineer coding Interview 
+This repository is stored all the question and solution I learned for Data Engineer coding Interview 
 
 Learning Sources
 - [DataLemur SQL Lessons](https://datalemur.com/sql-tutorial)
